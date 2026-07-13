@@ -15,6 +15,6 @@ E-Commerce Dashboard
 
 2.Screenshot:
 Show what the dashboard looks like.
-example:https://github.com/AbhilashJS2002/Ecommerce-dashboard/blob/main/Ecommerce%20Dashboard.png
+example:
 
 
